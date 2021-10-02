@@ -1,0 +1,30 @@
+{
+  "name": "nitrobrute",
+  "version": "2.0.0",
+  "description": "Nitro Brute forcing",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt": "^1.2.0",
+    "randexp": "^0.5.3",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nitro",
+    "discord"
+  ],
+  "author": "Luci",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9P9/Nitro-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/9P9/Nitro-Generator/issues"
+  },
+  "homepage": "https://github.com/9P9/Nitro-Generator#readme"
+}
